@@ -73,8 +73,6 @@ DSA • OOP • System Thinking • Design Thinking
 
 # 🛠️ Tech Stack
 
-# 🛠️ Tech Stack
-
 ### 👨‍💻 Programming Languages
 
 <p align="left">
