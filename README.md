@@ -24,54 +24,8 @@
 <img src="https://komarev.com/ghpvc/?username=prakashpoint17&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
-
 ---
-
-## 🚀 About Me
-
-I'm **Prakash N**, a Computer Science & Engineering graduate with an **8.85 CGPA** and an Honors program background, focused on building practical software, AI/ML solutions, automation workflows, and cloud-connected applications.
-
-I enjoy working at the intersection of:
-
-**Software Engineering × AI/ML × Automation × Data × Cloud**
-
-My approach is simple:
-
-> **Understand the problem → design the system → build the solution → test it → make it useful.**
-
-I have worked on projects ranging from **student ERP and academic automation** to **computer vision, machine learning, predictive analytics, and intelligent attendance systems**.
-
-I'm particularly interested in creating solutions that are not only technically functional, but also **usable, scalable, and meaningful in real-world environments**.
-
----
-
-## 🧠 What I Build
-
-```text
-🤖 AI / ML
-     ↓
-Computer Vision • Predictive Analytics • Deep Learning
-
-💻 Software Engineering
-     ↓
-Python • Flask • React • REST APIs • SQL
-
-☁️ Cloud & Automation
-     ↓
-Firebase • Supabase • Google APIs • Serverless Workflows
-
-📊 Data
-     ↓
-Pandas • NumPy • Excel/Sheets • Analytics • Visualization
-
-🧩 Problem Solving
-     ↓
-DSA • OOP • System Thinking • Design Thinking
-```
-
----
-
-# 🛠️ Tech Stack
+# 🛠️ Handled With
 
 ### 👨‍💻 Programming Languages
 
@@ -143,6 +97,52 @@ DSA • OOP • System Thinking • Design Thinking
 </p>
 
 **Tools:** VS Code • Git • GitHub • Postman • Jupyter • Google Colab • Docker
+
+---
+
+---
+
+## 🚀 About Me
+
+I'm **Prakash N**, a Computer Science & Engineering graduate with an **8.85 CGPA** and an Honors program background, focused on building practical software, AI/ML solutions, automation workflows, and cloud-connected applications.
+
+I enjoy working at the intersection of:
+
+**Software Engineering × AI/ML × Automation × Data × Cloud**
+
+My approach is simple:
+
+> **Understand the problem → design the system → build the solution → test it → make it useful.**
+
+I have worked on projects ranging from **student ERP and academic automation** to **computer vision, machine learning, predictive analytics, and intelligent attendance systems**.
+
+I'm particularly interested in creating solutions that are not only technically functional, but also **usable, scalable, and meaningful in real-world environments**.
+
+---
+
+## 🧠 What I Build
+
+```text
+🤖 AI / ML
+     ↓
+Computer Vision • Predictive Analytics • Deep Learning
+
+💻 Software Engineering
+     ↓
+Python • Flask • React • REST APIs • SQL
+
+☁️ Cloud & Automation
+     ↓
+Firebase • Supabase • Google APIs • Serverless Workflows
+
+📊 Data
+     ↓
+Pandas • NumPy • Excel/Sheets • Analytics • Visualization
+
+🧩 Problem Solving
+     ↓
+DSA • OOP • System Thinking • Design Thinking
+```
 
 ---
 
