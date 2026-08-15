@@ -102,8 +102,6 @@
 
 ---
 
----
-
 ## 🚀 About Me
 
 I'm **Prakash N**, a Computer Science & Engineering graduate with an **8.85 CGPA** and an Honors program background, focused on building practical software, AI/ML solutions, automation workflows, and cloud-connected applications.
@@ -119,6 +117,26 @@ My approach is simple:
 I have worked on projects ranging from **student ERP and academic automation** to **computer vision, machine learning, predictive analytics, and intelligent attendance systems**.
 
 I'm particularly interested in creating solutions that are not only technically functional, but also **usable, scalable, and meaningful in real-world environments**.
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=prakashpoint17&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prakashpoint17&layout=compact&theme=transparent&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashpoint17&theme=transparent&hide_border=true" />
+
+</div>
 
 ---
 
@@ -419,102 +437,7 @@ I also completed an AI internship at Rinex during this period.
 
 ---
 
-# 🏆 Achievements
 
-I believe achievements are most meaningful when they show **different dimensions of capability** — technical skill, communication, problem solving, leadership, and participation.
-
-| Achievement                        | Result                         |
-| ---------------------------------- | ------------------------------ |
-| 🥇 National Science Day Exhibition | **1st Prize**                  |
-| 🥇 Cloudus 2K24 — Bug Buster       | **1st Prize**                  |
-| 🥇 BIS Quiz Competition            | **1st Prize**                  |
-| 🥈 BIS Debate Competition          | **2nd Prize**                  |
-| 🥉 BIS Poster Designing            | **3rd Prize**                  |
-| 🏆 Best Student of the Year        | **Honored / Winner**           |
-| 📖 Metaverse Paper Presentation    | **Journal Publication**        |
-| 🌱 Mission Green Tamil Nadu        | **World Record Participation** |
-| 🤝 BIS Awareness Campaign          | **Campaign Participation**     |
-
-These achievements are documented in the achievement records you provided.
-
----
-
-# 📚 Certifications & Learning
-
-```text
-Artificial Intelligence Internship
-        ↓
-Machine Learning
-        ↓
-Generative AI
-        ↓
-Internet of Things
-        ↓
-Java Programming
-        ↓
-RPA Development
-        ↓
-Embedded C & Automotive Software
-        ↓
-Generative AI in Action
-```
-
-### Selected Learning
-
-* 🤖 Artificial Intelligence Internship — Rinex
-* 🧠 Generative AI in Action — IBM SkillsBuild
-* ⚙️ Embedded C & Automotive Software — ANCIT
-* 🔄 RPA Developer Foundation — UiPath
-* 🌐 Internet of Things MasterClass — Pantech
-* 🤖 Generative AI MasterClass — Pantech
-* ☕ Java Programming MasterClass — Pantech
-* 📊 Machine Learning with Python — Whaot
-* ⚡ Energy Literacy — Energy Swaraj Foundation
-
-Your achievement records also include the Pantech IoT, Generative AI and Java masterclasses, IBM Generative AI course, ANCIT internship, and UiPath RPA learning.
-
----
-
-# 🧩 Beyond Coding
-
-I don't want my profile to represent only programming.
-
-I have also been involved in:
-
-* 🎤 Public speaking
-* 🧑‍💼 Student leadership
-* 🧩 Technical symposium organization
-* 📢 BIS awareness activities
-* 🌱 Environmental volunteering
-* 🤝 Community service
-* 📚 Paper presentations
-* 🧠 Quiz and technical competitions
-
-This combination has helped me develop **communication, coordination, presentation, leadership, and teamwork** alongside technical skills.
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prakashpoint17&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashpoint17&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Journey
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashpoint17&theme=transparent&hide_border=true" />
-
-</div>
-
----
 
 # 🎯 Current Direction
 
@@ -587,7 +510,16 @@ I enjoy taking a problem that looks complicated and breaking it into smaller sys
 
 ---
 
+# 📈 Contribution Journey
+
 <div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashpoint17&theme=transparent&hide_border=true" />
+
+</div>
+<div align="center">
+
+---
 
 ### ⚡ Code. Learn. Build. Improve. Repeat.
 
