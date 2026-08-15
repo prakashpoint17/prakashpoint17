@@ -24,8 +24,10 @@
 <img src="https://komarev.com/ghpvc/?username=prakashpoint17&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
+
 ---
-# 🛠️ Handled With
+
+# 🛠️ Skilled With
 
 ### 👨‍💻 Programming Languages
 
