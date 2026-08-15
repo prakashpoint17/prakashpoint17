@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-I'm **Prakash N**, a Computer Science & Engineering graduate with an **8.9 CGPA** and an Honors program background, focused on building practical software, AI/ML solutions, automation workflows, and cloud-connected applications.
+I'm **Prakash N**, a Computer Science & Engineering graduate with an **8.85 CGPA** and an Honors program background, focused on building practical software, AI/ML solutions, automation workflows, and cloud-connected applications.
 
 I enjoy working at the intersection of:
 
