@@ -1,28 +1,596 @@
-## Hi there 👋
+<!-- ===================== HEADER ===================== -->
 
-**prakashpoint17/prakashpoint17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm **Prakash N**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/crazy_boy_prakash17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/prakash-n-b1522b258) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakashpoint2005@gmail.com) 
+### Building software that turns **ideas → intelligent solutions → real-world impact**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prakashpoint17&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prakashpoint17&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashpoint17&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p>
+  <a href="https://github.com/prakashpoint17">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/prakash-n-b1522b258">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://prakash-protfolio-site.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:prakashpoint2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prakashpoint17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://komarev.com/ghpvc/?username=prakashpoint17&label=Profile%20Views&color=0e75b6&style=flat" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prakashpoint17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prakashpoint17&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 About Me
+
+I'm **Prakash N**, a Computer Science & Engineering graduate with an **8.9 CGPA** and an Honors program background, focused on building practical software, AI/ML solutions, automation workflows, and cloud-connected applications.
+
+I enjoy working at the intersection of:
+
+**Software Engineering × AI/ML × Automation × Data × Cloud**
+
+My approach is simple:
+
+> **Understand the problem → design the system → build the solution → test it → make it useful.**
+
+I have worked on projects ranging from **student ERP and academic automation** to **computer vision, machine learning, predictive analytics, and intelligent attendance systems**.
+
+I'm particularly interested in creating solutions that are not only technically functional, but also **usable, scalable, and meaningful in real-world environments**.
+
+---
+
+## 🧠 What I Build
+
+```text
+🤖 AI / ML
+     ↓
+Computer Vision • Predictive Analytics • Deep Learning
+
+💻 Software Engineering
+     ↓
+Python • Flask • React • REST APIs • SQL
+
+☁️ Cloud & Automation
+     ↓
+Firebase • Supabase • Google APIs • Serverless Workflows
+
+📊 Data
+     ↓
+Pandas • NumPy • Excel/Sheets • Analytics • Visualization
+
+🧩 Problem Solving
+     ↓
+DSA • OOP • System Thinking • Design Thinking
+```
+
+---
+
+# 🛠️ Tech Stack
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
+
+### ⚛️ Frontend & Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,flask,nodejs" />
+</p>
+
+### 🔐 APIs, Authentication & Backend Architecture
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
+<img src="https://img.shields.io/badge/OAuth-3C4043?style=for-the-badge&logo=auth0&logoColor=white" />
+
+</p>
+
+**Backend concepts:** REST API • JWT Authentication • OAuth • API Integration • Role-Based Access • Serverless Workflows
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase" />
+</p>
+
+**Database & Data:** PostgreSQL • MongoDB • MySQL • Firebase • Supabase • Google Sheets / Excel
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+**AI/ML:** Machine Learning • Computer Vision • Image Processing • Deep Learning • Predictive Analytics
+
+---
+
+### ☁️ Cloud, Deployment & DevOps Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vercel,render,firebase,supabase,googlecloud,git,github" />
+</p>
+
+**Deployment & Cloud:** Vercel • Render • Firebase • Supabase • Google Cloud • Serverless Deployment
+
+---
+
+### 🔧 Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker" />
+</p>
+
+**Tools:** VS Code • Git • GitHub • Postman • Jupyter • Google Colab • Docker
+
+---
+
+## 🧩 Full-Stack Development
+
+```text
+                    FULL-STACK DEVELOPMENT
+                              │
+              ┌───────────────┴───────────────┐
+              ↓                               ↓
+          FRONTEND                         BACKEND
+              │                               │
+        React / JS                       Python / Flask
+              │                               │
+              └───────────────┬───────────────┘
+                              ↓
+                         REST APIs
+                              │
+                    ┌─────────┴─────────┐
+                    ↓                   ↓
+                  JWT                 OAuth
+               Authentication       Authentication
+                    │                   │
+                    └─────────┬─────────┘
+                              ↓
+                         DATABASES
+                              │
+             ┌────────────────┼────────────────┐
+             ↓                ↓                ↓
+         PostgreSQL        MongoDB          Firebase
+             │                │                │
+             └────────────────┼────────────────┘
+                              ↓
+                         DEPLOYMENT
+                              │
+                    ┌─────────┴─────────┐
+                    ↓                   ↓
+                  Vercel              Render
+                    │                   │
+                    └─────────┬─────────┘
+                              ↓
+                     🌐 LIVE APPLICATION
+```
+
+---
+
+## 🔐 Backend Skills
+
+I'm interested in building backend systems that are **secure, modular, and deployment-ready**.
+
+### Core Backend Concepts
+
+* RESTful API development
+* JWT-based authentication
+* OAuth integration
+* Role-based access control
+* CRUD operations
+* API integration
+* Database connectivity
+* Cloud/serverless workflows
+* Frontend–backend integration
+* Deployment and API testing
+
+### Typical Architecture
+
+```text
+React Frontend
+      │
+      │ HTTP / JSON
+      ↓
+REST API
+      │
+      ├── JWT Authentication
+      │
+      ├── Business Logic
+      │
+      └── Data Validation
+              │
+              ↓
+        Database Layer
+        ┌─────┼─────┐
+        ↓     ↓     ↓
+      SQL  MongoDB Firebase
+              │
+              ↓
+       Cloud / Deployment
+        ┌─────┴─────┐
+        ↓           ↓
+      Vercel      Render
+```
+
+---
+
+## ☁️ Deployment Experience
+
+I have worked with modern deployment platforms and cloud-connected architectures.
+
+| Platform            | Usage                                  |
+| ------------------- | -------------------------------------- |
+| ▲ **Vercel**        | Frontend / React deployment            |
+| 🚀 **Render**       | Backend / Flask deployment             |
+| 🔥 **Firebase**     | Cloud services & application workflows |
+| ⚡ **Supabase**      | Database & backend services            |
+| ☁️ **Google Cloud** | Cloud APIs & serverless workflows      |
+
+My goal is not only to develop applications locally, but to understand the complete path:
+
+**Development → API → Database → Authentication → Deployment → Live Application**
+
+---
+
+## 🧰 My Practical Development Stack
+
+```text
+Python
+  ├── Flask
+  ├── REST APIs
+  ├── JWT
+  ├── Machine Learning
+  └── Automation
+
+JavaScript
+  ├── React
+  ├── API Integration
+  └── Frontend Applications
+
+Databases
+  ├── PostgreSQL
+  ├── MongoDB
+  ├── MySQL
+  ├── Firebase
+  └── Supabase
+
+Deployment
+  ├── Vercel
+  ├── Render
+  ├── Firebase
+  └── Google Cloud
+
+Development
+  ├── Git / GitHub
+  ├── VS Code
+  ├── Postman
+  ├── Jupyter
+  └── Google Colab
+```
+
+---
+
+# ⭐ Featured Projects
+
+## 🎓 Student ERP — Cloud Optimized
+
+A lightweight ERP concept designed around familiar Google services instead of expensive infrastructure.
+
+**Tech:** React • Google OAuth • Google Drive • Gmail • Excel/Sheets
+
+### 💡 Innovation
+
+Designed a data-isolation approach using available Google Drive storage, enabling department-specific data access while reducing duplicate data and database maintenance.
+
+---
+
+## 🧮 CGPA Calculator Web App
+
+A web application designed to automate semester-wise CGPA calculation from Excel-based academic data.
+
+**Tech:** Python • Flask • JavaScript • Excel
+
+### 💡 Impact
+
+Automated academic calculations and reduced manual calculation effort while providing role-oriented dashboards.
+
+---
+
+## 👁️ Face Recognition & Liveness-Aware Attendance
+
+A computer-vision based attendance system combining multiple verification layers.
+
+**Tech:** Python • OpenCV • MobileNet
+
+### 🔐 Verification Layers
+
+```text
+Face Recognition
+       +
+Liveness Detection
+       +
+Environment / Object Detection
+       +
+Location / Geo-fencing
+       ↓
+Tamper-resistant Attendance
+```
+
+The goal is to move beyond simple face matching toward a more reliable attendance workflow.
+
+---
+
+## 🧠 Alzheimer's Disease Prediction
+
+A deep-learning based prediction system using image-processing and MobileNet-based classification.
+
+**Tech:** Python • TensorFlow • MobileNet • JavaScript
+
+The project explored a multi-modal approach and a deployment-oriented architecture.
+
+---
+
+## 📈 Advertisement ROI Prediction
+
+A machine-learning regression project designed to estimate sales performance from advertising channels.
+
+**Tech:** Python • Pandas • NumPy • Scikit-learn • Seaborn
+
+```text
+Advertising Data
+       ↓
+Data Preprocessing
+       ↓
+Exploratory Analysis
+       ↓
+Regression Model
+       ↓
+MAE / MSE / R²
+       ↓
+Business Insight
+```
+
+---
+
+# 💼 Experience
+
+### 🚗 Embedded C Programming & Automotive Software
+
+**ANCIT Consulting — Dindigul**
+
+Worked with embedded automotive concepts including:
+
+* Embedded C
+* STM32 / NXP microcontrollers
+* CAN bus
+* Sensor integration
+* ADAS concepts
+* Automatic Emergency Braking
+* Hardware–software integration
+* Automotive diagnostics
+
+---
+
+### 🤖 Artificial Intelligence Intern
+
+**Rinex Technology — IIT Bhubaneswar**
+
+**March 2024 – May 2024**
+
+Worked on AI/ML projects involving:
+
+* Weather prediction
+* Advertisement ROI prediction
+* Divorce prediction
+* Data preprocessing
+* Machine learning models
+* Model evaluation
+* MAE / MSE / R²
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+
+I also completed an AI internship at Rinex during this period.
+
+---
+
+# 🏆 Achievements
+
+I believe achievements are most meaningful when they show **different dimensions of capability** — technical skill, communication, problem solving, leadership, and participation.
+
+| Achievement                        | Result                         |
+| ---------------------------------- | ------------------------------ |
+| 🥇 National Science Day Exhibition | **1st Prize**                  |
+| 🥇 Cloudus 2K24 — Bug Buster       | **1st Prize**                  |
+| 🥇 BIS Quiz Competition            | **1st Prize**                  |
+| 🥈 BIS Debate Competition          | **2nd Prize**                  |
+| 🥉 BIS Poster Designing            | **3rd Prize**                  |
+| 🏆 Best Student of the Year        | **Honored / Winner**           |
+| 📖 Metaverse Paper Presentation    | **Journal Publication**        |
+| 🌱 Mission Green Tamil Nadu        | **World Record Participation** |
+| 🤝 BIS Awareness Campaign          | **Campaign Participation**     |
+
+These achievements are documented in the achievement records you provided.
+
+---
+
+# 📚 Certifications & Learning
+
+```text
+Artificial Intelligence Internship
+        ↓
+Machine Learning
+        ↓
+Generative AI
+        ↓
+Internet of Things
+        ↓
+Java Programming
+        ↓
+RPA Development
+        ↓
+Embedded C & Automotive Software
+        ↓
+Generative AI in Action
+```
+
+### Selected Learning
+
+* 🤖 Artificial Intelligence Internship — Rinex
+* 🧠 Generative AI in Action — IBM SkillsBuild
+* ⚙️ Embedded C & Automotive Software — ANCIT
+* 🔄 RPA Developer Foundation — UiPath
+* 🌐 Internet of Things MasterClass — Pantech
+* 🤖 Generative AI MasterClass — Pantech
+* ☕ Java Programming MasterClass — Pantech
+* 📊 Machine Learning with Python — Whaot
+* ⚡ Energy Literacy — Energy Swaraj Foundation
+
+Your achievement records also include the Pantech IoT, Generative AI and Java masterclasses, IBM Generative AI course, ANCIT internship, and UiPath RPA learning.
+
+---
+
+# 🧩 Beyond Coding
+
+I don't want my profile to represent only programming.
+
+I have also been involved in:
+
+* 🎤 Public speaking
+* 🧑‍💼 Student leadership
+* 🧩 Technical symposium organization
+* 📢 BIS awareness activities
+* 🌱 Environmental volunteering
+* 🤝 Community service
+* 📚 Paper presentations
+* 🧠 Quiz and technical competitions
+
+This combination has helped me develop **communication, coordination, presentation, leadership, and teamwork** alongside technical skills.
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prakashpoint17&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashpoint17&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Journey
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashpoint17&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+# 🎯 Current Direction
+
+I'm currently focused on becoming a stronger **software engineer with AI/ML capabilities**.
+
+### My learning roadmap
+
+```text
+              SOFTWARE ENGINEERING
+                       │
+        ┌──────────────┼──────────────┐
+        ↓              ↓              ↓
+      Python          SQL           React
+        │              │              │
+        └──────────────┼──────────────┘
+                       ↓
+                 Backend / APIs
+                       │
+                       ↓
+                 AI / ML Systems
+                       │
+              ┌────────┴────────┐
+              ↓                 ↓
+         Computer Vision    Generative AI
+              │                 │
+              └────────┬────────┘
+                       ↓
+               Cloud Deployment
+                       │
+                       ↓
+             Real-World Products
+```
+
+---
+
+# 💭 My Engineering Philosophy
+
+> **Don't build technology just because it is possible.
+> Build it because it solves something.**
+
+I enjoy taking a problem that looks complicated and breaking it into smaller systems that can be understood, built, tested, and improved.
+
+**Problem → Idea → Architecture → Implementation → Testing → Impact**
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+### Let's build something meaningful.
+
+<a href="https://github.com/prakashpoint17">
+<img src="https://img.shields.io/badge/GitHub-prakashpoint17-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/prakash-n-b1522b258">
+<img src="https://img.shields.io/badge/LinkedIn-Prakash%20N-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://prakash-protfolio-site.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" />
+</a>
+
+<a href="mailto:prakashpoint2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Code. Learn. Build. Improve. Repeat.
+
+**Thanks for visiting my profile!**
+
+</div>
